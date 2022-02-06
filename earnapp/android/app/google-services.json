@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560967624700",
+    "project_id": "earnapp-b3c11",
+    "storage_bucket": "earnapp-b3c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560967624700:android:cb371e8a9f0e498f3c7479",
+        "android_client_info": {
+          "package_name": "com.example.earnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560967624700-s343kksrc2np15b8kbalp82tv8t3ldrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMPzPQ-z3MlHtieT-yq8bQ6gzCkwMCYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560967624700-s343kksrc2np15b8kbalp82tv8t3ldrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

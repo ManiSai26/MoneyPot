@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604117042178",
+    "project_id": "moneypot-24072",
+    "storage_bucket": "moneypot-24072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604117042178:android:8177729f2b037c5960931b",
+        "android_client_info": {
+          "package_name": "com.example.moneypot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604117042178-lig8vv7gk4e373u59j8lbb7jprt45csj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOji-iwiE2P5J9uVQBsBg-ZHhls-7sXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604117042178-lig8vv7gk4e373u59j8lbb7jprt45csj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
